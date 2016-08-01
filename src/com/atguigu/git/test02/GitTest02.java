@@ -9,6 +9,6 @@ public class GitTest02 {
 		System.out.println("Hello GitHub33");
 		System.out.println("哈哈，加油！");
 		System.out.println("哈哈，加油！222222");
-		System.out.println("哈哈，加油！11114444");
+		System.out.println("哈哈，加油！12221114444");
 	}
 }
