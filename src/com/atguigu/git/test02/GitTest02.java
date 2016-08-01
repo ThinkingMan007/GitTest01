@@ -10,5 +10,6 @@ public class GitTest02 {
 		System.out.println("哈哈，加油！");
 		System.out.println("哈哈，加油！222222");
 		System.out.println("哈哈，加油！111133377774444");
+		System.out.println("哈哈，加油！12221114444");
 	}
 }
